@@ -22,10 +22,8 @@
 - [react-hook-form - Performant React forms with easy validation](https://github.com/react-hook-form/react-hook-form) 
 - [classnames - Conditional CSS classes](https://github.com/JedWatson/classnames) 
 - [swr - React hooks library for remote data fetching](https://github.com/vercel/swr) 
-- [i18next - Internationalization framework for JavaScript](https://github.com/i18next/i18next) 
 - [lodash - Utility library with helpful functions](https://github.com/lodash/lodash)
 - [date-fns - Modern JavaScript date utility library](https://github.com/date-fns/date-fns)
-- [@ebay/nice-modal-react - A customizable and accessible modal component for React](https://github.com/eBay/nice-modal-react)
 
 
 ### Maintain code consistency
